@@ -12,7 +12,9 @@ This is a simple console based Java program that allows users to insert numbers 
 1. Clone the Repository
 git clone (https://github.com/BokaMokoena/Calculator.git)
 
-2. Navigate to the Source Folder
+2. Install Java if you don't have it yet
+
+3. Navigate to the Source Folder
 
 cd Calculator/src
 
