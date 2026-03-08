@@ -10,7 +10,7 @@ This is a simple console based Java program that allows users to insert numbers 
 
 # How to run the project
 1. Clone the Repository
-git clone (https://github.com/BokaMokoena/Calculator)
+git clone (https://github.com/BokaMokoena/Calculator.git)
 
 2. Navigate to the Source Folder
 
