@@ -21,4 +21,5 @@ cd Calculator/src
 javac Main.java Calculator.java
 
 4. Run the Program
-
+![Calculator Screenshot](screenshots/img.png)
+![Calculator Screenshot](screenshots/img_2.png)
